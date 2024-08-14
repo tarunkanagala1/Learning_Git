@@ -1,6 +1,6 @@
 from qiskit import *
-qr= QuantumRegister(2)
-cr=ClassicalRegister(2)
+qr= QuantumRegister(4)
+cr=ClassicalRegister(4)
 circuit=QuantumCircuit(qr,cr)
 circuit.draw()
 circuit.h(gr[0])
