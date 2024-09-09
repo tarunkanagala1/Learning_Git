@@ -1,0 +1,23 @@
+.my-table{
+    
+    border-radius: 10px;
+    width:200px;
+    height:200px;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    background-color: grey;
+}
+.my-table,th,td{
+    border:2px solid black;
+    border-collapse: collapse;
+
+
+}
+menu{
+    background-color: orangered;
+    width:200px;
+    height:200px;
+   
+    
+}
